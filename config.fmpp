@@ -1,0 +1,3 @@
+sourceRoot: ./
+outputRoot: ./build/html
+data: {tdd(datasource/cb.tdd)}
